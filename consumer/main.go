@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"crypto/x509"
 	"flag"
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 	"io/ioutil"
 	"log"
 	"os"

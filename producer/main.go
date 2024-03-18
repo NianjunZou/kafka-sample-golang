@@ -5,7 +5,7 @@ import (
 	"crypto/x509"
 	"flag"
 	"fmt"
-	"github.com/Shopify/sarama"
+	"github.com/IBM/sarama"
 	"io/ioutil"
 	"log"
 	"os"

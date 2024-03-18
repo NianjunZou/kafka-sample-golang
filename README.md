@@ -1,6 +1,6 @@
 # 百度消息服务Golang样例
 
-百度消息服务是分布式、高可扩展、高通量的托管消息队列服务。完全兼容开源Kafka。本样例展示如何使用[sarama](https://github.com/Shopify/sarama)客户端访问百度消息服务。
+百度消息服务是分布式、高可扩展、高通量的托管消息队列服务。完全兼容开源Kafka。本样例展示如何使用[sarama](https://github.com/IBM/sarama)客户端访问百度消息服务。
 
 ## 环境要求
 
@@ -19,7 +19,7 @@
 
 ### 安装sarama及其依赖
 
-    go get github.com/Shopify/sarama
+    go get github.com/IBM/sarama
 
 ### 构建与执行
 
